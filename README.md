@@ -1,19 +1,20 @@
 
-<div style="position: relative; width: 800px; margin: auto;">
-  <!-- Image de fond, non cliquable -->
-  <img src="fondgithub.jpg" alt="Mes projets" style="width: 100%; pointer-events: none;">
+<div style="
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: auto;
+  background-image: url('fondgithub.jpg');
+  background-size: cover;
+  background-position: center;
+">
 
-  <!-- Libft -->
-  <a href="https://github.com/Ravaill-hack/libft" style="position: absolute; top: 50px; left: 50px;">
-    <img src="IvanTsarevitch.jpg" alt="Lien 1" style="width: 100px;">
+  <!-- Icône cliquable 1 -->
+  <a href="https://github.com/Ravaill-hack/libft"
+     style="position: absolute; top: 50px; left: 100px;">
+    <img src="IvanTsarevitch.jpg" alt="Lien 1" style="width: 80px;">
   </a>
 
-  <!-- Image cliquable 2 -->
-  <a href="https://lien2.com" style="position: absolute; top: 200px; left: 300px;">
-    <img src="icone2.png" alt="Lien 2" style="width: 80px;">
-  </a>
-
-  <!-- Tu peux continuer avec d'autres icônes -->
 </div>
 
 
