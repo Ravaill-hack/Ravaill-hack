@@ -5,7 +5,7 @@
 
   <!-- Libft -->
   <a href="https://github.com/Ravaill-hack/libft" style="position: absolute; top: 20px; left: 50px;">
-    <img src="fondgithub.jpg" alt="Lien 1" style="width: 100px;">
+    <img src="IvanTsarevitch.jpg" alt="Lien 1" style="width: 100px;">
   </a>
 
   <!-- Image cliquable 2 -->
