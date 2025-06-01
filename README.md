@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravaill-hack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <p align="center">
@@ -9,6 +7,8 @@
 
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravaill-hack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Salut, moi c'est Ton Prénom 👋</h1>
 <p align="center">Bienvenue sur mon GitHub ! Voici un aperçu interactif de mes projets 👇</p>
 
