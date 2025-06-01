@@ -6,14 +6,6 @@
     <area target="_blank" alt="test" title="test" href="https://www.google.com/" coords="615,48,46,660" shape="rect">
 </map>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ravaill-hack/Ravaill-hack/main/fondgithub.jpg" usemap="#image-map" width="1000">
-</p>
-
-<map name="image-map">
-  <area target="_blank" alt="test" title="test" href="https://www.google.com/" coords="615,48,661,94" shape="rect">
-</map>
-
 
 
 
