@@ -1,8 +1,8 @@
 
 <div style="
   position: relative;
-  width: 800px;
-  height: 600px;
+  width: 1000px;
+  height: 500px;
   margin: auto;
   background-image: url('fondgithub.jpg');
   background-size: cover;
