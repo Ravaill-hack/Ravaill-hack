@@ -1,8 +1,8 @@
 
 <div style="
   position: relative;
-  width: 1000px;
-  height: 500px;
+  width: 2000px;
+  height: 1000px;
   margin: auto;
   background-image: url('https://github.com/Ravaill-hack/Ravaill-hack/blob/main/fondgithub.jpg');
   background-size: cover;
