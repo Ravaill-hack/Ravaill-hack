@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="fondgithub.jpg" usemap="#projects" alt="Mes projets" width="800">
+  <img src="fondgithub.jpg" alt="Mes projets" width="1000">
 </p>
 
 
