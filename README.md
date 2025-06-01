@@ -4,7 +4,7 @@
   <img src="fondgithub.jpg" alt="Mes projets" style="width: 100%; pointer-events: none;">
 
   <!-- Libft -->
-  <a href="https://github.com/Ravaill-hack/libft" style="position: absolute; top: 20px; left: 50px;">
+  <a href="https://github.com/Ravaill-hack/libft" style="position: absolute; top: 50px; left: 50px;">
     <img src="IvanTsarevitch.jpg" alt="Lien 1" style="width: 100px;">
   </a>
 
