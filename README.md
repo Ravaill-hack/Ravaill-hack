@@ -2,7 +2,9 @@
 
 
 
-
+<p align="center">
+  <img src="fondgithub.jpg" usemap="#projects" alt="Mes projets" width="800">
+</p>
 
 
 
