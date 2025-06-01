@@ -4,7 +4,7 @@
   width: 2000px;
   height: 1000px;
   margin: auto;
-  background-image: url('https://github.com/Ravaill-hack/Ravaill-hack/blob/main/fondgithub.jpg');
+  background-image: url('https://raw.githubusercontent.com/Ravaill-hack/Ravaill-hack/main/fondgithub.jpg');
   background-size: cover;
   background-position: center;
 ">
