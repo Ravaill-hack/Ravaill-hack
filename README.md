@@ -4,8 +4,8 @@
   <img src="fondgithub.jpg" alt="Mes projets" style="width: 100%; pointer-events: none;">
 
   <!-- Libft -->
-  <a href="https://lien1.com" style="position: absolute; top: 20px; left: 50px;">
-    <img src="icone1.png" alt="Lien 1" style="width: 100px;">
+  <a href="https://github.com/Ravaill-hack/libft" style="position: absolute; top: 20px; left: 50px;">
+    <img src="fondgithub.jpg" alt="Lien 1" style="width: 100px;">
   </a>
 
   <!-- Image cliquable 2 -->
@@ -15,11 +15,6 @@
 
   <!-- Tu peux continuer avec d'autres icônes -->
 </div>
-
-
-<p align="center">
-  <img src="fondgithub.jpg" alt="Mes projets" width="1000">
-</p>
 
 
 
